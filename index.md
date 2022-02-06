@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# 好问题
 
-You can use the [editor on GitHub](https://github.com/TopProblem/topproblem/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/99104855/152664330-13acea7b-63b8-4cb3-9555-1c70e7558fb5.png)
+> 好问题胜于好答案。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+WOOP模型
 
-### Markdown
+![image](https://user-images.githubusercontent.com/99104855/152664347-c8943cd4-a73d-4a2d-94f3-616367499a6d.png)
+> 澄清愿望，思考结果，发现障碍，制定计划。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+具体而言，“WOOP思维模型”包括四个方面：
 
-```markdown
-Syntax highlighted code block
+W，愿望（Wish）
+O，结果（Outcome）
+O，障碍（Obstacles）
+P，计划（Plan），并且要针对不同的障碍而制定不同的计划
 
-# Header 1
-## Header 2
-### Header 3
+![image](https://user-images.githubusercontent.com/99104855/152664373-22dffdbb-9b7f-4c36-98aa-9f2de2fdae66.png)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## 参考
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TopProblem/topproblem/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. [WOOP 思维模型：实现任何目标的科学方法](https://www.36kr.com/p/1083641758024711)
