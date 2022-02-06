@@ -29,6 +29,9 @@
 一切的半途而废/执行力不强，其最合理的科学解释，也是最朴素的解释是：重复与应用的次数不够，内化过程没有完成，大脑皮层沟回构建失败，应该建立的神经元关联不够强以致断掉，回到了原本没有关联的状态。
 ```
 
+![image](https://user-images.githubusercontent.com/99104855/152665452-91bedd2e-9d15-4275-b097-4b494fc2cb93.png)
+> [首先，你要选择你追求什么，即你的目标](https://www.jianshu.com/p/2c81ceb6c0fe)。对目标的选择将决定你的方向。当你追求目标时，你将遇到问题，一些问题将迫使你直面自己的缺点。如何应对由此带来的痛苦，取决于你自己。要想实现目标，你必须沉着冷静，以便准确地诊断你的问题，进而规划一个方案来解决问题，然后做一切必要的事来践行方案，实现成果。然后你考察自己取得的这些新成果，并重复上述过程。为了快速进化，你必须迅速、持续地这么做，不断设定更高的目标。
+
 WOOP模型
 
 ![image](https://user-images.githubusercontent.com/99104855/152664347-c8943cd4-a73d-4a2d-94f3-616367499a6d.png)
@@ -181,13 +184,18 @@ P，计划（Plan），并且要针对不同的障碍而制定不同的计划
 ## 参考
 
 1. [WOOP 思维模型：实现任何目标的科学方法](https://www.36kr.com/p/1083641758024711)
-2. [你的生命有什么可能](https://book.douban.com/subject/25870384/) 
-3. [拆掉思维里的墙](https://book.douban.com/subject/4953695/)
-4. [高效能人士的七个习惯](https://book.douban.com/subject/5325618/)
-5. [少有人走的路](https://book.douban.com/subject/1775691/)
-6. [财富自由之路](https://book.douban.com/subject/27094706/)
-7. [韭菜的自我修养](https://read.douban.com/ebook/56926052/?dcs=subject-rec&dcm=douban&dct=27094706)
-8. [心流](https://read.douban.com/ebook/46037783/?dcs=subject-rec&dcm=douban&dct=27094706)
-9. [刻意练习](https://read.douban.com/ebook/27092221/?dcs=subject-rec&dcm=douban&dct=27094706)
+2. [原则](https://book.douban.com/subject/27608239/)
+3. [你的生命有什么可能](https://book.douban.com/subject/25870384/) 
+4. [拆掉思维里的墙](https://book.douban.com/subject/4953695/)
+5. [高效能人士的七个习惯](https://book.douban.com/subject/5325618/)
+6. [少有人走的路](https://book.douban.com/subject/1775691/)
+7. [财富自由之路](https://book.douban.com/subject/27094706/)
+8. [韭菜的自我修养](https://read.douban.com/ebook/56926052/?dcs=subject-rec&dcm=douban&dct=27094706)
+9. [心流](https://read.douban.com/ebook/46037783/?dcs=subject-rec&dcm=douban&dct=27094706)
+10. [刻意练习](https://read.douban.com/ebook/27092221/?dcs=subject-rec&dcm=douban&dct=27094706)
+11. [高手](https://book.douban.com/subject/27101562/)
+12. [见识](https://book.douban.com/subject/27167992/)
+13. [超越感觉](https://book.douban.com/subject/26276832/)
+14. [把时间当作朋友](https://book.douban.com/subject/25749845/)
 
 ![Alt](https://repobeats.axiom.co/api/embed/f1a24a46afbc96e7510f89cdbb25563142c4345b.svg "Repobeats analytics image")
