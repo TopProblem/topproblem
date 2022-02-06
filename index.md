@@ -21,3 +21,5 @@ P，计划（Plan），并且要针对不同的障碍而制定不同的计划
 ## 参考
 
 1. [WOOP 思维模型：实现任何目标的科学方法](https://www.36kr.com/p/1083641758024711)
+
+![Alt](https://repobeats.axiom.co/api/embed/f1a24a46afbc96e7510f89cdbb25563142c4345b.svg "Repobeats analytics image")
