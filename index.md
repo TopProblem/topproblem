@@ -1,6 +1,6 @@
 # 好问题
 
-![image](https://user-images.githubusercontent.com/99104855/152664330-13acea7b-63b8-4cb3-9555-1c70e7558fb5.png)
+![image](https://user-images.githubusercontent.com/99104855/153755915-4e0354c1-28d3-4362-b9cb-74ba2817e70e.png)
 > 好问题胜于好答案，少有正确及价值...成长就是想到之后做到，没有什么比“践行”更为重要了。人生的终极问题是“什么最重要”。
 
 [你必须对两件事深信不疑：](https://book.douban.com/review/9177988/)
