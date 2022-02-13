@@ -3,7 +3,8 @@
 ![image](https://user-images.githubusercontent.com/99104855/153755915-4e0354c1-28d3-4362-b9cb-74ba2817e70e.png)
 > 好问题胜于好答案，少有正确及价值...成长就是想到之后做到，没有什么比“践行”更为重要了。人生的终极问题是“什么最重要”。
 
-[你必须对两件事深信不疑：](https://book.douban.com/review/9177988/)
+![image](https://user-images.githubusercontent.com/99104855/153756233-2d313217-eb37-4789-ac17-4318df93c4f8.png)
+> [你必须对两件事深信不疑：](https://book.douban.com/review/9177988/)
 
 ```
 一.用正确的方法做正确的事情,你一定会变得更好
